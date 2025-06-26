@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiPromosApplication<api-promos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.zyntech.br.api_promos.ApiPromosApplication",
+            "projectName": "api-promos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
